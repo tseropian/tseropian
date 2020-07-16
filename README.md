@@ -8,3 +8,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Main stack ⭐
+- 🍋 NodeJS
+- 🥗 TypeScript
+- 🥕 GraphQL
+- 🥗 React
+- 🥗 MySQL
+
+### Links 👯
+- https://seropian.io
+- https://followtheway.info
+- https://notsaved.org
