@@ -5,16 +5,17 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: thomas@seropian.io
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I once fell asleep during a heavy metal concert. 
 
 ### Main stack ⭐
-- 🍋 NodeJS
-- 🥗 TypeScript
-- 🥕 GraphQL
-- 🥗 React
-- 🥗 MySQL
+- NodeJS
+- TypeScript
+- GraphQL
+- React
+- MySQL
+- Paper and pen
 
 ### Links 👯
 - https://seropian.io
