@@ -1,20 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on crafting simple and easy to use applications for my clients
+- 🗓 My next availability for consulting is `Sept 1st`
 - 📫 How to reach me: thomas@seropian.io
-- 😄 Pronouns: he/him
+- 😄 Pronouns: [he/him](http://pronoun.is/he)
 - ⚡ Fun fact: I once fell asleep during a heavy metal concert. 
 
 ### Main stack ⭐
-- NodeJS
-- TypeScript
+- NodeJS / TypeScript
+- MySQL
 - GraphQL
 - React
-- MySQL
 - Paper and pen
 
 ### Links 👯
