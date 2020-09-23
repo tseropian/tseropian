@@ -17,3 +17,4 @@
 - https://seropian.io
 - https://followtheway.info
 - https://notsaved.org
+- http://claptoncfc.co.uk
