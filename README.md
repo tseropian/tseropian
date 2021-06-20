@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on crafting simple and easy to use applications for my clients
-- 🗓 My next availability for consulting is `Jan 6th`
+- 🗓 My next availability for consulting is `Oct 1st`
 - 📫 How to reach me: thomas@seropian.io
 - 😄 Pronouns: [he/him](http://pronoun.is/he)
 - ⚡ Fun fact: I once fell asleep during a heavy metal concert. 
